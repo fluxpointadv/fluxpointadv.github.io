@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2024-06-01
-img: Energy_auditing.png
+img: climate.png
 alt: image-alt
 project-date: April 2014
 client: fluxpoint
