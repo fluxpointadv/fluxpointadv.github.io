@@ -6,7 +6,7 @@ img: TEA.png
 alt: image-alt
 project-date: April 2026
 client: Fluxpoint
-category: Technology & Investment Assessment
+category: (TEA · Feasibility · Scale-up Analysis)
 title: Technology & Investment Assessment
 description: |
   We assess whether technologies, processes, or projects are technically and economically viable. This reduces uncertainty in investment and scale-up decisions.
