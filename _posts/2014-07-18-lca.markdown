@@ -10,9 +10,7 @@ category: Product Assessment (LCA, PCF, EPD, 3rd party validation)
 title: Product Environmental Assessment
 
 description: |
-  We quantify and validate the environmental impact of products and processes using life cycle-based methods. This supports product claims, customer requirements, and certification standards.
-
-  We also review and improve existing studies to ensure methodological robustness and compliance with relevant frameworks.
+  We quantify and validate the environmental impact of products and processes using life cycle-based methods. This supports product claims, customer requirements, and certification standards. We also review and improve existing studies to ensure methodological robustness and compliance with relevant frameworks.
 
   ### What we help you answer
 
@@ -26,4 +24,3 @@ description: |
   - Product Carbon Footprints (PCFs)
   - Environmental Product Declarations (EPDs)
   - LCA review, validation, and improvement
----
