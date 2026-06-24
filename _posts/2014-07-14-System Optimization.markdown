@@ -1,11 +1,26 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2024-06-02
 img: System_optimization.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: fluxpoint
+category: Process Optimisation · Decarbonisation · Site Selection
+title: Systems & Infrastructure Optimisation
+description: |
+  We analyse industrial and energy systems to identify opportunities for improving performance, reducing emissions, and optimising costs. This also includes strategic infrastructure siting and planning.
+
+  ### What we help you answer
+
+  - Where are inefficiencies and emissions hotspots?
+  - How can I reduce cost and emissions together?
+  - Where should new facilities or infrastructure be located?
+
+  ### Includes
+
+  - Process and system optimisation
+  - Industrial decarbonisation analysis
+  - Site selection and infrastructure planning
+  - System-level modelling and optimisation
 ---
