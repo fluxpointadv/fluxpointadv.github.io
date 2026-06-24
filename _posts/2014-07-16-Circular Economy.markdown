@@ -6,7 +6,7 @@ img: Circular_Economy.png
 alt: image-alt
 project-date: April 2014
 client: Fluxpoint
-category: Biochar · Carbon Credits · Scenario Analysis
+category: (Biochar · Carbon Credits · Scenario Analysis)
 title: Carbon Removal & Decision Modelling
 description: |
   We evaluate carbon removal pathways and build models to support complex sustainability and investment decisions under uncertainty.
