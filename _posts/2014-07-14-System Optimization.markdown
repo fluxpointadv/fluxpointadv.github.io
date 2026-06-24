@@ -6,7 +6,7 @@ img: System_optimization.png
 alt: image-alt
 project-date: April 2014
 client: fluxpoint
-category: Process Optimisation · Decarbonisation · Site Selection
+category: (Process Optimisation · Decarbonisation · Site Selection)
 title: Systems & Infrastructure Optimisation
 description: |
   We analyse industrial and energy systems to identify opportunities for improving performance, reducing emissions, and optimising costs. This also includes strategic infrastructure siting and planning.
