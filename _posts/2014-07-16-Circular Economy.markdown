@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2024-06-04
-img: Circular_Economy.png
+img: carbon_removal.png
 alt: image-alt
 project-date: April 2014
 client: Fluxpoint
