@@ -1,14 +1,26 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2026-05-17
 img: TEA.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: April 2026
+client: Fluxpoint
+category: Technology & Investment Assessment
+title: Technology & Investment Assessment
 description: |
-  Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+  We assess whether technologies, processes, or projects are technically and economically viable. This reduces uncertainty in investment and scale-up decisions.
 
-  
+  ### What we help you answer
+
+  - Is this technology commercially viable at scale?
+  - What are the real costs and risks?
+  - How does this compare to alternative solutions?
+
+  ### Includes
+
+  - Techno-economic assessment (TEA)
+  - Cost and performance modelling
+  - Scenario and sensitivity analysis
+  - Investment decision support
 ---
