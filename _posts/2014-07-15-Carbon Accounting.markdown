@@ -6,7 +6,7 @@ img: C_accounting.png
 alt: image-alt
 project-date: April 2014
 client: flux adv
-category: Carbon Accounting & Disclosure
+category: (GHG Reporting · CDP · ESG Reporting)
 title: Carbon Accounting & Disclosure
 description: |
   We develop accurate and defensible greenhouse gas inventories and reporting systems aligned with global standards for regulatory, investor, and customer disclosure.
