@@ -52,8 +52,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Penny Gardens
-  - line: Nottingham, NG9 3TA
+  - line: Fluxpoint Advisory Ltd
+  - line: 22A Main Road,Gedling
+  - line: Nottingham, NG4 3HP
 
 # Credits content
 #credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
