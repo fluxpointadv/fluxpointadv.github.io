@@ -21,6 +21,6 @@ description: |
 
   - Corporate GHG accounting (Scope 1, 2, 3)
   - Carbon Disclosure Project (CDP) disclosure support
-  - Environemntal, Social and Governance (ESG) and sustainability reporting inputs
+  - Environmental, Social and Governance (ESG) and sustainability reporting inputs
   - Net-zero baseline development and tracking
 ---
